@@ -14,7 +14,7 @@
 ![Изображение 2](https://github.com/BrandonWF1/streetmusic/blob/main/screen2.png)
 ![Изображение 3](https://github.com/BrandonWF1/streetmusic/blob/main/screen%203.png)
 ![Изображение 4](https://github.com/BrandonWF1/streetmusic/blob/main/screen%204.png)
-![Изображение 5](https://github.com/BrandonWF1/streetmusic/blob/main/screen5.png)
+![Изображение 5](https://github.com/BrandonWF1/streetmusic/blob/main/screen%205.png)
 ![Изображение 6](https://github.com/BrandonWF1/streetmusic/blob/main/screen%206.png)
 
 ## Моя роль в проекте
